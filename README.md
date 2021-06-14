@@ -5,7 +5,7 @@
 
 #### Techniques used:
 <!--ts-->
-   * [PCA](#PCA)
-   * [Elbow Method](#elbow_metod)
-   * [K-means](#k-means)
+   * PCA
+   * Elbow Method
+   * K-means
 <!--te-->
